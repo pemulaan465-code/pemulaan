@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydub
+ffmpeg-python
+sqlalchemy
+vosk
+openai
+requests
